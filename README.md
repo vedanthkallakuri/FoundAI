@@ -1,4 +1,5 @@
-FoundAI
+**FoundAI**
+
 FoundAI is an innovative solution to help students on college campuses find their lost belongings, leveraging advanced AI techniques and machine learning to make things easy. Through a simple and intuitive web platform, FoundAI uses PyTorch-based image classification and object detection to help people find their lost items faster and more accurately.
 
 What It Does
