@@ -7,9 +7,11 @@ FoundAI is an innovative solution to help students on college campuses find thei
 ## What It Does
 FoundAI utilizes PyTorch image classification and object detection to provide a seamless experience for users who have lost an item. Here's how it works:
 
-## Image Search: Upload a photo of your lost item, and FoundAI will return similar items that have been found across your campus.
+## Image Search: 
+Upload a photo of your lost item, and FoundAI will return similar items that have been found across your campus.
 
-## Text Search: Don’t have a picture? Simply describe your lost item in the search bar. Using object detection, our AI will match your description with found items from other users.
+## Text Search: 
+Don’t have a picture? Simply describe your lost item in the search bar. Using object detection, our AI will match your description with found items from other users.
 Whether you have an image or just a description, FoundAI helps you connect with lost and found items quickly and easily.
 
 ### Tech Stack
@@ -22,13 +24,11 @@ Machine Learning: PyTorch (ResNet18 model)
 ## Image Classification
 The PyTorch ResNet18 model evaluates images of lost items and matches them with found items, ranking similarity based on pre-trained neural networks.
 
-## Integration
-Users can upload images to AWS S3, which are then linked in the MongoDB database. This allows the system to return visually similar items quickly and accurately.
 
-## Accomplishments We're Proud Of
-### Accurate Image Matching: We successfully fine-tuned our image classification model, which allows users to upload a picture of their lost item and receive accurate matches.
-### Optimized Search Algorithm: Filtering the ImageNet dataset to focus on relevant keywords improved the search accuracy and overall performance.
-### Scalable Platform: We built a platform that is easy to use, scalable, and robust, capable of handling large datasets and user interactions efficiently.
+## Accomplishments
+* Accurate Image Matching: We successfully fine-tuned our image classification model, which allows users to upload a picture of their lost item and receive accurate matches.
+* Optimized Search Algorithm: Filtering the ImageNet dataset to focus on relevant keywords improved the search accuracy and overall performance.
+* Scalable Platform: We built a platform that is easy to use, scalable, and robust, capable of handling large datasets and user interactions efficiently.
 
 ## What We Learned
 * Process and classify image data using PyTorch and fine-tune machine learning models for real-world applications.
