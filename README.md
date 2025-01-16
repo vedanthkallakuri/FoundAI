@@ -1,8 +1,17 @@
 # FoundAI
+<img width="124" alt="Screenshot 2025-01-16 at 12 27 29 PM" src="https://github.com/user-attachments/assets/133ce6d9-783d-4427-8a7a-daedfc670c92" />
 
 ## MongoDB Sponoser Prize Winner @ MHACKS16
 
 FoundAI is an innovative solution to help students on college campuses find their lost belongings, leveraging advanced AI techniques and machine learning to make things easy. Through a simple and intuitive web platform, FoundAI uses PyTorch-based image classification and object detection to help people find their lost items faster and more accurately.
+
+### Tech Stack
+* Frontend: React, JavaScript 
+* Backend: Python, Flask
+* Database: MongoDB
+* Cloud Storage: AWS S3
+* Machine Learning: PyTorch (ResNet18 model)
+
 
 ## What It Does
 FoundAI utilizes PyTorch image classification and object detection to provide a seamless experience for users who have lost an item. Here's how it works:
@@ -13,13 +22,6 @@ Upload a photo of your lost item, and FoundAI will return similar items that hav
 ## Text Search: 
 Don’t have a picture? Simply describe your lost item in the search bar. Using object detection, our AI will match your description with found items from other users.
 Whether you have an image or just a description, FoundAI helps you connect with lost and found items quickly and easily.
-
-### Tech Stack
-Frontend: React, JavaScript
-Backend: Python, Flask
-Database: MongoDB
-Cloud Storage: AWS S3
-Machine Learning: PyTorch (ResNet18 model)
 
 ## Image Classification
 The PyTorch ResNet18 model evaluates images of lost items and matches them with found items, ranking similarity based on pre-trained neural networks.
