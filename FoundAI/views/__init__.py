@@ -1,1 +1,0 @@
-from FoundAI.views.index import show_index
