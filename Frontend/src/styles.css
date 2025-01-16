@@ -120,6 +120,7 @@
     border: none;
     font-size: 25px;
     color: white;
+    cursor: pointer;
 }
 
 
@@ -138,3 +139,12 @@
     color: white;
 }
 
+.form-file-submit-btn{
+    width: 500px;
+    height: 40px;
+    background-color: transparent;
+    color: black;
+    font-size: 20px;
+    font-family: "Nunito Sans";
+    cursor: pointer;
+}

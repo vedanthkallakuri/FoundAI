@@ -138,9 +138,14 @@ export default function Landing() {
               >
                 <AddIcon
                   color="gray.300"
+                  cursor="pointer"
                   onClick={(e) => setUploadIsOpen(true)}
                 />
-                <SearchIcon color="gray.300" onClick={handleSearch} />
+                <SearchIcon
+                  cursor="pointer"
+                  color="gray.300"
+                  onClick={handleSearch}
+                />
               </InputRightElement>
             </InputGroup>
           </div>
@@ -186,7 +191,9 @@ export default function Landing() {
                   X
                 </button>
               </label>
-              <button type="submit">Upload</button>
+              <button className="form-file-submit-btn" type="submit">
+                Upload
+              </button>
               <input
                 id="custom-file-input"
                 className="custom-file-input"
