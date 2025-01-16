@@ -1,9 +1,8 @@
 <img width="124" alt="Screenshot 2025-01-16 at 12 27 29 PM" src="https://github.com/user-attachments/assets/133ce6d9-783d-4427-8a7a-daedfc670c92" />
 
-### MongoDB Sponoser Prize Winner @ MHACKS16
-<img width="721" alt="Screenshot 2025-01-16 at 12 28 13 PM" src="https://github.com/user-attachments/assets/3e8106c7-858c-433e-97f0-320bcd605289" />
-<img width="658" alt="Screenshot 2025-01-16 at 12 28 25 PM" src="https://github.com/user-attachments/assets/76531a9c-b317-4310-9b09-4d0c134d639c" />
-![image](https://github.com/user-attachments/assets/b0f5aea1-d31c-4cfb-8807-b2f151633724)
+### MongoDB Sponoser Prize Winner @ MHACKS16 🎉
+
+<img width="1478" alt="Screenshot 2025-01-16 at 12 30 35 PM" src="https://github.com/user-attachments/assets/91a898aa-3dbe-4599-ac7e-738f17b93310" />
 
 FoundAI is an innovative solution to help students on college campuses find their lost belongings, leveraging advanced AI techniques and machine learning to make things easy. Through a simple and intuitive web platform, FoundAI uses PyTorch-based image classification and object detection to help people find their lost items faster and more accurately.
 
